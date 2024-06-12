@@ -1,28 +1,12 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="AAS icon" src="docs/resources/aas_icon.svg"/>
 
-# ArisuAutoSweeper
+# 헤일로 이동카트 (아리수)
 
-**Blue Archive Automation Script**
-
-**| English | [简体中文](README.md) |**
-
-![gui_en.png](docs/resources/gui_en.png)
-
-## Features
-
-The script is still under active development. The following features have been implemented:
-
-- [x] **Cafe** Claim rewards / Interact / Invitation / Second floor
-- [x] **Club** Claim AP
-- [x] **Mailbox** Claim rewards
-- [x] **Bounty** Auto sweep
-- [x] **Scrimmage** Auto sweep
-- [x] **Tactical Challenge** Claim rewards / Auto battle
 
 Supported servers:
 
 - [x] JP
-- [x] OVERSEA
+- [x] KR
 
 Supported in-game languages:
 
