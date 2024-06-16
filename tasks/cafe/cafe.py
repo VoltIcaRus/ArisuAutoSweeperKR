@@ -140,7 +140,7 @@ class Cafe(CafeUI):
 
             if not is_reward_on and status == CafeStatus.OCR:
                 logger.info('Skip reward')
-                status = CafeStatus.CLICK
+                status = CafeStatus.INVITATION if status == CafeStatus.OCR else CafeStatus.CLICK
                 continue
 
             if not is_touch_on and status == CafeStatus.CLICK:
